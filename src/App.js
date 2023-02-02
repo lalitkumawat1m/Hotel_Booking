@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-         <h1>Hello world</h1>
-        <p>
+         <h1 >Hello world</h1>
+        <p class="text-lg ">
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
